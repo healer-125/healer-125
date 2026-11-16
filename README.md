@@ -71,11 +71,9 @@ LangChain(LangGraph, LangSmith)/HuggingFace/RunPod/Ollama, MCP, LLM(Sonnet/Anthr
 <a href="https://github.com/DhenSouza"><img src="https://github.com/DhenSouza.png?size=96" alt="DhenSouza" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/EvanioLima"><img src="https://github.com/EvanioLima.png?size=96" alt="EvanioLima" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/Fernanda-Dantas"><img src="https://github.com/Fernanda-Dantas.png?size=96" alt="Fernanda-Dantas" width="96px" height="96px" style="max-width: 100%;"></a>
-<a href="https://github.com/girishmallya123"><img src="https://github.com/girishmallya123.png?size=96" alt="girishmallya123" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/gustavocargc"><img src="https://github.com/gustavocargc.png?size=96" alt="gustavocargc" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/iurygoulart23"><img src="https://github.com/iurygoulart23.png?size=96" alt="iurygoulart23" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/IzabellaSouza"><img src="https://github.com/IzabellaSouza.png?size=96" alt="IzabellaSouza" width="96px" height="96px" style="max-width: 100%;"></a>
-<a href="https://github.com/jpazv"><img src="https://github.com/jpazv.png?size=96" alt="jpazv" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://www.youtube.com/watch?v=9RZblj1uQ_0&amp;t=2715s" rel="nofollow"><img src="https://github.com/kterra.png?size=96" alt="kterra" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/Lima-Paloma"><img src="https://github.com/Lima-Paloma.png?size=96" alt="Lima-Paloma" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/Mayborg121"><img src="https://github.com/Mayborg121.png?size=96" alt="Mayborg121" width="96px" height="96px" style="max-width: 100%;"></a>
